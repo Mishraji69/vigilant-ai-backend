@@ -3,7 +3,7 @@ langchain-openai
 langchain-experimental
 tiktoken
 PyPDF2
-pyautogen
+pyautogen==0.2.32
 pandas
 pyftpdlib
 pypdf
