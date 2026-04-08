@@ -5,8 +5,11 @@ tiktoken
 PyPDF2
 pyautogen
 pandas
-pyftpdlib 
+pyftpdlib
 pypdf
 notebook
 flake8
 requests
+flask
+flask-cors
+python-dotenv
